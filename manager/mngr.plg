@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: mngr - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x419 /fo"Release/md.res" /d "NDEBUG" "D:\Documents and Settings\Frederik\Bureau\ezapper\source\manager\md.rc"" 
+Creating temporary file "D:\DOCUME~1\Frederik\LOCALS~1\Temp\RSP93.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Release/mngr.pdb" /debug /machine:I386 /out:"mngr.exe" 
+".\Release\mngr.obj"
+".\Release\md.res"
+]
+Creating command line "link.exe @D:\DOCUME~1\Frederik\LOCALS~1\Temp\RSP93.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+mngr.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
